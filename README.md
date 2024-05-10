@@ -23,6 +23,4 @@ This application allows users to create, view, and delete tasks in a to-do list.
 
 This application was developed by [Rishi R] (https://github.com/RishiR123).
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
