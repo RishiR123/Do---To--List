@@ -34,7 +34,7 @@ git clone https://github.com/your-username/TaskManager.git
 3. Run the application:
 - **CLI version**:
   ```
-  Do--to--list.py
+  Do to List.py
   ```
 
 - **GUI version**:
