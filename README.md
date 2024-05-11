@@ -24,12 +24,15 @@ Task Manager is a Python-based application that allows users to manage their tas
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/TaskManager.git
+ git clone:
+ ```
+   https://github.com/your-username/TaskManager.git
+  ``` 
 
 2. Install the required dependencies (for GUI version only):
-
-"pip install tk"
-
+  ```
+  pip install tk
+  ```
 
 3. Run the application:
 - **CLI version**:
