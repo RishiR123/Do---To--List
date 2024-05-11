@@ -39,7 +39,7 @@ git clone https://github.com/your-username/TaskManager.git
 
 - **GUI version**:
   ```
-  python task_manager_gu.py
+  To-Do-List with GUI.py
   ```
 
 4. Follow the on-screen instructions (for CLI version) or use the graphical interface (for GUI version) to manage your tasks effectively.
