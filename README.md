@@ -34,12 +34,12 @@ git clone https://github.com/your-username/TaskManager.git
 3. Run the application:
 - **CLI version**:
   ```
-  python task_manager.py
+  Do--to--list.py
   ```
 
 - **GUI version**:
   ```
-  python task_manager_gui.py
+  python task_manager_gu.py
   ```
 
 4. Follow the on-screen instructions (for CLI version) or use the graphical interface (for GUI version) to manage your tasks effectively.
@@ -47,10 +47,10 @@ git clone https://github.com/your-username/TaskManager.git
 ## Screenshots
 
 - **CLI Version**:
-![CLI Screenshot](screenshots/cli_screenshot.png)
+![CLI Screenshot](![image](https://github.com/RishiR123/To--do--List/assets/140498171/00fc4806-63e5-4245-933b-fed9f82c3ca4))
 
 - **GUI Version**:
-![GUI Screenshot](screenshots/gui_screenshot.png)
+![GUI Screenshot](![image](https://github.com/RishiR123/To--do--List/assets/140498171/71f31d9c-a406-4a43-86f1-c447202fbef1))
 
 ## License
 
