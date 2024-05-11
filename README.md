@@ -1,26 +1,76 @@
-# To-Do List App
+<div align="center">
+  <h1>📋 Task Manager</h1>
+  <p>A task management application built in Python, available with both command-line interface (CLI) and graphical user interface (GUI).</p>
+</div>
 
-A simple To-Do List application developed in Python.
+## Overview
 
-## Description
-
-This application allows users to create, view, and delete tasks in a to-do list. It provides a simple command-line interface for easy interaction.
+Task Manager is a Python-based application that allows users to manage their tasks efficiently. It provides both CLI and GUI versions, catering to different user preferences and environments.
 
 ## Features
 
-- Add tasks to the to-do list.
-- Delete tasks from the to-do list.
-- View the current list of tasks.
+- **Command-Line Interface (CLI)**:
+  - Add tasks: Enter new tasks and add them to the list.
+  - Delete tasks: Remove tasks from the list.
+  - Mark as completed: Mark tasks as completed.
+
+- **Graphical User Interface (GUI)**:
+  - Intuitive GUI: User-friendly interface for easy interaction.
+  - Add tasks: Enter new tasks and add them to the list.
+  - Delete tasks: Remove tasks from the list.
+  - Mark as completed: Mark tasks as completed and visually distinguish them.
 
 ## Usage
 
-1. Clone the repository to your local machine.
-2. Open a terminal and navigate to the project directory.
-3. Run the `Do to list.py` file using Python.
-4. Follow the on-screen instructions to add, delete, or view tasks.
+1. Clone the repository to your local machine:
 
-## Developer
+git clone https://github.com/your-username/TaskManager.git
 
-This application was developed by [Rishi R] (https://github.com/RishiR123).
+2. Install the required dependencies (for GUI version only):
+
+"pip install tk"
+
+
+3. Run the application:
+- **CLI version**:
+  ```
+  python task_manager.py
+  ```
+
+- **GUI version**:
+  ```
+  python task_manager_gui.py
+  ```
+
+4. Follow the on-screen instructions (for CLI version) or use the graphical interface (for GUI version) to manage your tasks effectively.
+
+## Screenshots
+
+- **CLI Version**:
+![CLI Screenshot](screenshots/cli_screenshot.png)
+
+- **GUI Version**:
+![GUI Screenshot](screenshots/gui_screenshot.png)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Credits
+
+- GUI built with [Tkinter](https://docs.python.org/3/library/tk.html)
+- Icons from [Flaticon](https://www.flaticon.com/)
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to me at rishiininternet@gamil.com.
+
+---
+
+<div align="center">
+<sub>Built with ❤️ by [Rishi R] (https://github.com/RishiR123).
+</div>
+
+
 
 
