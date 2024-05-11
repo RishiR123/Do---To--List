@@ -26,7 +26,7 @@ Task Manager is a Python-based application that allows users to manage their tas
 
  git clone:
  ```
-   https://github.com/your-username/TaskManager.git
+   (https://github.com/RishiR123/To--do--List.git)
   ``` 
 
 2. Install the required dependencies (for GUI version only):
